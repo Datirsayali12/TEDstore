@@ -1,7 +1,7 @@
 
 # TEDStore
 
-This Django project is a web application for managing products.
+This Django project is a web application for products.
 
 
 
